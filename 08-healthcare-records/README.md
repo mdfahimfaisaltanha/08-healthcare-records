@@ -19,7 +19,7 @@ npm run setup     # tables + 4 staff, 8 patients, encrypted records, a week of a
 npm run dev       # http://localhost:3000
 ```
 
-Sign in with the accounts printed by setup (`admin@clinic.test`, `dr.rahman@clinic.test`, `dr.chen@clinic.test`, `frontdesk@clinic.test`). A role-by-role demo script is in `samples/walkthrough.md`.
+Sign in with the accounts printed by setup (`admin@clinic.test`, `dr.abdurrahman@clinic.test`, `dr.chen@clinic.test`, `frontdesk@clinic.test`). A role-by-role demo script is in `samples/walkthrough.md`.
 
 ---
 
